@@ -1,0 +1,35 @@
+ul {
+	list-style-type: none;
+	text-decoration: none;
+	text-align: center; 
+}
+body {
+	background-color: DeepSkyBlue;
+	color: black;
+
+	margin: auto;
+	width: 65%;
+	padding: 10px;
+	text-align: center; 
+	border: 3px solid black;
+	
+	/*
+	background: url(cloud.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	*/
+}
+h3 {
+	margin-bottom: 0;
+	padding: 0;
+}
+p {
+	margin-top: 0;
+	padding: 0;
+}
+.line {
+	color: black;
+	padding: 0 15px;
+	box-shadow: 0 1px 10px black;
+}
