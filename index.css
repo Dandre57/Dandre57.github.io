@@ -1,0 +1,34 @@
+ul {
+	list-style-type: none;
+	text-decoration: none;
+	text-align: center; 
+}
+body {
+	background-color: DeepSkyBlue;
+	color: black;
+	font-family: "Cooper Black";
+	margin: auto;
+	width: 65%; 
+	padding: 10px;
+	text-align: center;
+	<!-- border: 3px solid black; -->
+}
+h3, p {
+	margin-bottom: 0;
+	padding: 0;
+}
+.line {
+	color: black;
+	padding: 0 15px;
+	box-shadow: 0 1px 10px black;
+}
+div.left {
+	text-indent: 25px;
+	width: 40%;
+	text-align: left;
+}
+div.right {
+	text-indent: 25px;
+	width: 40%;
+	text-align: right;
+}
